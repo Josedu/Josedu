@@ -1,0 +1,10 @@
+- 👋 Hi, I’m **Jose Jaramillo**
+- 👀 I’m interested in **front-end development, currently learning technologies like React, JavaScript, HTML, and CSS. I'm truly passionate about this field and aspire to become highly skilled to create websites at a professional level.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Python, and TypeScript**, to expand my skills and become more proficient in front-end development.
+- 💞️ I’m looking to collaborate on **e-commerce projects, mobile-friendly web applications, interactive websites, projects that work with extensive data from large APIs, and social networking platforms.**
+- 📫 How to reach me: 
+   - **Email**: josejara93106@gmail.com
+   - **X (Twitter)**: @josedujs
+   - **GitHub**: [josedu](https://github.com/josedu)
+   - **Slack**: Josedu
+- ⚡ Fun fact: **I'm also a music producer! I've always dreamed of combining my love for music with programming by working on projects like audio programming, sound design, or even creating interactive music experiences for web applications. When I'm not coding or making music, you'll probably find me playing sports, enjoying outdoor activities, or deep in concentration in front of my computer. Oh, and I’m a bit obsessed with finding solutions – I just can't rest until I crack the problem!**
